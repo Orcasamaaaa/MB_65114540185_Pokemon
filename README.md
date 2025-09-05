@@ -1,20 +1,6 @@
 <<<<<<< HEAD
-# my_app
+# MB_65114540185_Pokemon
 
-A new Flutter project.
+ณัฐจักษ์  กายชาติ  65114540185
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pokemonteam
->>>>>>> aa498bdf4388bd7d5ef532bf05cb0194189371f2
+1.สามารถ clone แล้วทำการ run ได้เลย
